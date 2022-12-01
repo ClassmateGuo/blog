@@ -20,6 +20,7 @@
    - [Spring.IOC-SpringFramework概述](https://github.com/ClassmateGuo/blog/issues/5)
    - [Spring.IOC-入门IOC](https://github.com/ClassmateGuo/blog/issues/6)
    - [Spring.IOC-IOC基础（依赖查询）](https://github.com/ClassmateGuo/blog/issues/7)
+   - [Spring.IOC-IOC基础（注解驱动与组件扫描）](https://github.com/ClassmateGuo/blog/issues/8)
    
 - SpringBoot
 
