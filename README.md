@@ -19,7 +19,7 @@
    - [Spring.IOC-IOC是怎么来的？](https://github.com/ClassmateGuo/blog/issues/4)
    - [Spring.IOC-SpringFramework概述](https://github.com/ClassmateGuo/blog/issues/5)
    - [Spring.IOC-入门IOC](https://github.com/ClassmateGuo/blog/issues/6)
-   - [Spring.IOC-IOC基础](https://github.com/ClassmateGuo/blog/issues/7)
+   - [Spring.IOC-IOC基础（依赖查询](https://github.com/ClassmateGuo/blog/issues/7)
    
 - SpringBoot
 
