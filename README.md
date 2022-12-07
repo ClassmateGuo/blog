@@ -18,4 +18,4 @@
    - [Spring.IOC-IOC基础（注解驱动与组件扫描）](https://github.com/ClassmateGuo/blog/issues/8):white_check_mark:
 
 ## 并发
-- :crocodile:[CAS](https://github.com/ClassmateGuo/blog/issues/11):clock4:
+- [CAS](https://github.com/ClassmateGuo/blog/issues/11):clock4:
