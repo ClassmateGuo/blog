@@ -25,3 +25,6 @@
 ## 并发
 - [CAS](https://github.com/ClassmateGuo/blog/issues/11):clock4:
 
+## 设计模式
+- [Head-First 策略模式](https://github.com/ClassmateGuo/blog/issues/13):white_check_mark:
+
