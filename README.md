@@ -29,4 +29,5 @@
 - [Head-First 策略模式](https://github.com/ClassmateGuo/blog/issues/13):white_check_mark:
 
 
-## 365天坚持学习打卡挑战
+## 365天坚持学习
+[打卡挑战](https://github.com/ClassmateGuo/blog/blob/main/365%E5%A4%A9%E6%89%93%E5%8D%A1.md)
